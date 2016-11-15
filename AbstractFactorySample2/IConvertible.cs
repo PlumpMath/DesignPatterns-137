@@ -8,5 +8,5 @@ namespace AbstractFactorySample2
 {
     public interface IConvertible : ICar
     {
-    }
+    } 
 }
